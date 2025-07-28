@@ -3,8 +3,8 @@
 Created during the Virtual Data Analytics Internship by AtliQ Technologies, Codebasics.
 
 ## Project Overview
-Shield Insurance specializes in comprehensive health insurance solutions designed to protect individuals, families, and corporate clients from the financial impact of medical emergencies.
-Our product portfolio includes everything from basic medical plans to high-value critical illness coverage, tailored to suit diverse health and financial needs.
+Shield Insurance specializes in comprehensive health insurance solutions designed to protect individuals, families, and corporate clients from the financial impact of medical emergencies.<br>
+Our product portfolio includes everything from basic medical plans to high-value critical illness coverage, tailored to suit diverse health and financial needs.<br>
 With a commitment to trust and reliability, Shield Insurance has been serving individuals and businesses across all age groups, delivering peace of mind through a wide range of insurance solutions.
 ## Data Model
 <img width="1118" height="634" alt="Shield_Insuarnce_Data_Model" src="https://github.com/user-attachments/assets/966b1372-06f2-4235-b505-8366f99cf540" />
@@ -24,11 +24,11 @@ With a commitment to trust and reliability, Shield Insurance has been serving in
 
 ## Insights
 ### Performance Analysis Key Insights
-Revenue Surge: Shield Insurance earned ₹982.25M between Nov 2022–Apr 2023, marking a strong pilot launch.
-Customer Growth: Over 27,000 customers onboarded, showing positive brand traction.
-High-Impact Month: March was the peak acquisition month with 7,081 users.
-City-wise Performance:Delhi NCR, Mumbai, and Hyderabad led in both customer count and revenue.
-Top Age Group Performance: The 31–50 age group drove the highest volume and revenue contribution. 
+Revenue Surge: Shield Insurance earned ₹982.25M between Nov 2022–Apr 2023, marking a strong pilot launch.<br>
+Customer Growth: Over 27,000 customers onboarded, showing positive brand traction.<br>
+High-Impact Month: March was the peak acquisition month with 7,081 users.<br>
+City-wise Performance:Delhi NCR, Mumbai, and Hyderabad led in both customer count and revenue.<br>
+Top Age Group Performance: The 31–50 age group drove the highest volume and revenue contribution. <br>
 Seasonal Dip:Performance dip in Jan–Feb indicates seasonal or churn-related impact.
 
 ### Sales mode Analysis Key Insights
