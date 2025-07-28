@@ -36,10 +36,13 @@ Sales Mode Performance Overview:
 	Online Website leads in customer volume (40–45% share monthly).
 	Offline Agent mode yields the higher revenue per customer.
 	Offline Direct & Online App modes show limited and stagnant contribution.
+ 
 Monthly Trend Analysis:
 	Jan began the revenue rise, Feb saw the weakest performance across all channels, while Mar had the revenue peak.
+ 
 Most Effective Channel: 
 	The Offline Agent channel was the most successful, contributing ₹550.76M in revenue and handling ~15,000 customers.
+ 
 March Revenue Performance
 	Offline Agent: ₹213.4M
 	Online Website: ₹46M
@@ -49,10 +52,13 @@ March Revenue Performance
 ### AGE Group Analysis Key Insights 
 Largest Customer Segment – Age 31–40
 	Over 10,500 customers, primarily purchasing through offline agents (6,100 policies), contributed to the highest expected settlements totaling ₹480M.
+ 
 Strong Performer – Age 25–30
 	Respond well to tailored offers, peer referrals, and loyalty programs.
+ 
 Senior Segment – Age 65+
 	Low engagement due to complexity; prefers agent-led, simplified onboarding and reassurance-focused communication.
+ 
 Drop-Off Risk (Feb Dip)
 	Mid-quarter drop seen across all age groups in February, suggesting a need for timely customer engagement or retention efforts.
 
