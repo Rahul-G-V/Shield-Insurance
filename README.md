@@ -32,62 +32,62 @@ Top Age Group Performance: The 31–50 age group drove the highest volume and re
 Seasonal Dip:Performance dip in Jan–Feb indicates seasonal or churn-related impact.
 
 ### Sales mode Analysis Key Insights
-Sales Mode Performance Overview:
-	Online Website leads in customer volume (40–45% share monthly).
-	Offline Agent mode yields the higher revenue per customer.
+Sales Mode Performance Overview:<br>
+	Online Website leads in customer volume (40–45% share monthly).<br>
+	Offline Agent mode yields the higher revenue per customer.<br>
 	Offline Direct & Online App modes show limited and stagnant contribution.
  
-Monthly Trend Analysis:
+Monthly Trend Analysis:<br>
 	Jan began the revenue rise, Feb saw the weakest performance across all channels, while Mar had the revenue peak.
  
-Most Effective Channel: 
+Most Effective Channel: <br>
 	The Offline Agent channel was the most successful, contributing ₹550.76M in revenue and handling ~15,000 customers.
  
-March Revenue Performance
-	Offline Agent: ₹213.4M
-	Online Website: ₹46M
-	Offline Direct: ₹29M
-	Online App: ₹2.54M
+March Revenue Performance<br>
+	Offline Agent: ₹213.4M<br>
+	Online Website: ₹46M<br>
+	Offline Direct: ₹29M<br>
+	Online App: ₹2.54M<br>
 
 ### AGE Group Analysis Key Insights 
-Largest Customer Segment – Age 31–40
+Largest Customer Segment – Age 31–40<br>
 	Over 10,500 customers, primarily purchasing through offline agents (6,100 policies), contributed to the highest expected settlements totaling ₹480M.
  
-Strong Performer – Age 25–30
+Strong Performer – Age 25–30<br>
 	Respond well to tailored offers, peer referrals, and loyalty programs.
  
-Senior Segment – Age 65+
+Senior Segment – Age 65+<br>
 	Low engagement due to complexity; prefers agent-led, simplified onboarding and reassurance-focused communication.
  
-Drop-Off Risk (Feb Dip)
+Drop-Off Risk (Feb Dip)<br>
 	Mid-quarter drop seen across all age groups in February, suggesting a need for timely customer engagement or retention efforts.
 
 ## Strategic Recommendations
-Address Mid-Quarter Drop-Offs: 
-	Analyze the Jan–Feb revenue dip to identify root causes (churn, policy expiry, or low marketing activity).
-	Launch Q1 re-engagement and retention campaigns proactively each year.
+Address Mid-Quarter Drop-Offs:<br> 
+	Analyze the Jan–Feb revenue dip to identify root causes (churn, policy expiry, or low marketing activity).<br>
+	Launch Q1 re-engagement and retention campaigns proactively each year.<br>
 	Use predictive analytics to flag age groups or regions at risk of mid-quarter disengagement.
  
-Maximize High-Value Age Segments:
-	Double down on the 31–50 age group with targeted upselling and loyalty offers.
-	Create value-based bundles like family plans or milestone-based coverage (e.g., career, retirement).
+Maximize High-Value Age Segments:<br>
+	Double down on the 31–50 age group with targeted upselling and loyalty offers.<br>
+	Create value-based bundles like family plans or milestone-based coverage (e.g., career, retirement).<br>
 	Strengthen agent-led onboarding for 65+ customers through simplified messaging and personal assistance.
  
-Boost Younger Demographic Engagement (18–30):
-	Use gamified onboarding, influencer partnerships, and micro-payment options to appeal to the 18–24 segment.
+Boost Younger Demographic Engagement (18–30):<br>
+	Use gamified onboarding, influencer partnerships, and micro-payment options to appeal to the 18–24 segment.<br>
 	Deploy referral programs and digital loyalty campaigns for the 25–30 group to expand peer acquisition.
  
-Optimize Sales Channels:
-	Continue scaling online mode with smarter nudges like “Top-up now” or limited-time offers.
-	Expand the agent network, especially in high-revenue cities, with incentives and CRM tools.
+Optimize Sales Channels:<br>
+	Continue scaling online mode with smarter nudges like “Top-up now” or limited-time offers.<br>
+	Expand the agent network, especially in high-revenue cities, with incentives and CRM tools.<br>
 	Re-activate branch and referral modes via hybrid onboarding and metro-based referral drives.
  
-Strengthen Regional Strategy:
-	In metro cities (Delhi, Mumbai, Hyderabad), offer localized campaigns and agent-targeted bonuses to sustain leadership.
+Strengthen Regional Strategy:<br>
+	In metro cities (Delhi, Mumbai, Hyderabad), offer localized campaigns and agent-targeted bonuses to sustain leadership.<br>
 	In cities (Chennai, Indore), run incentive-based acquisition programs to unlock growth potential.
  
-Leverage Data for Product Strategy:
-	Align product offerings by age group and geography (e.g., low-value/high-turnover plans for younger users).
+Leverage Data for Product Strategy:<br>
+	Align product offerings by age group and geography (e.g., low-value/high-turnover plans for younger users).<br>
 	Monitor sales mode vs revenue behavior to fine-tune product placement and distribution strategy.
 
 
